@@ -1,0 +1,1 @@
+Efficiently manage student information with the Student Management System in Java. This system handles student records, grades, attendance, and schedules seamlessly, providing a user-friendly platform for educational institutions to streamline administrative tasks.
